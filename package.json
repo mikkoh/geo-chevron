@@ -1,6 +1,6 @@
 {
   "name": "geo-chevron",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Creates a 2d chevron type shape in 3d space",
   "main": "index.js",
   "license": "MIT",
